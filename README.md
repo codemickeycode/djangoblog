@@ -6,7 +6,7 @@ http://net.tutsplus.com/tutorials/python-tutorials/python-from-scratch-creating-
 
 Create Virtualenv
 ```
-mkvirtualenv -a /home/mickey/Projects/djangoblog --no-site-packages djangoblog
+mkvirtualenv -a <Projects path>/djangoblog --no-site-packages djangoblog
 ```
 
 Create models and run server
